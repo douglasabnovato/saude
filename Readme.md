@@ -2,6 +2,10 @@
 
 - Site institucional da Fisio Saúde, uma clínica de fisioterapia.
 
+- Montar uma documentação para o proprietário do site ter informações para consultar e entender as especificações. 
+
+- Fazer também uma proposta de orçamento para apresentar na reunião de demonstração.
+
 #### Requisitos
 
 - [ ] cores da Identidade visual
