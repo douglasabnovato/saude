@@ -5,11 +5,15 @@
 #### Requisitos
 
 - [ ] cores da Identidade visual
+- [ ] favicon
 - [ ] redes sociais
 - [ ] depoimentos
 - [ ] fotos das instalações
 - [ ] fotos dos procedimentos
 - [ ] fotos das comemorações e interações com pacientes
+- [ ] responsividade
+- [ ] usabilidade em mobile
+- [ ] usabilidade em desktop
 
 #### Inspirações
 
