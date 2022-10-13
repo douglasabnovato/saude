@@ -31,7 +31,8 @@ img {
   --subtitle-font-size: 1rem;
   --title-font: 'Poppins', sans-serif;
   --body-font: 'DM Sans', sans-serif;
-  --fisio-green: rgb(10,171,117)
+  --fisio-green: rgb(10,171,117);
+  --fisio-blue: rgb(1,132,202);
 }
 
 html {
@@ -52,7 +53,7 @@ body {
 }
 
 .button {
-  background-color: var(--base-color);
+  background-color: var(--fisio-green);/*--base-color*/
   color: var(--text-color-light);
   height: 3.5rem;
   display: inline-flex;
@@ -254,7 +255,7 @@ nav.show div.icon-close {
   content: '';
   height: 100%;
   width: 100%;
-  background: var(--base-color-second);
+  background: var(--fisio-green);/*--base-color-second*/
   position: absolute;
   top: -16.8%;
   left: 16.7%;
@@ -301,7 +302,7 @@ nav.show div.icon-close {
   content: '';
   height: 100%;
   width: 100%;
-  background: var(--base-color-second);
+  background: var(--fisio-green);/*--base-color-second*/
   position: absolute;
   top: -8.3%;
   left: -33%;
