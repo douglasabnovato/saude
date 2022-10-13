@@ -26,3 +26,4 @@
 
 - portal [de fisioterapia](https://www.loguei.com/segmentos/site-para-fisioterapeuta/)
 
+- [ícones](https://www.flaticon.com/br/)
