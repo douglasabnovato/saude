@@ -27,7 +27,5 @@
 #### Inspirações
 
 - site de busca de [clínicas fisioterapeutas](https://buscafisio.com.br/fisio-saude-4)
-
 - portal [de fisioterapia](https://www.loguei.com/segmentos/site-para-fisioterapeuta/)
-
 - [ícones](https://www.flaticon.com/br/)

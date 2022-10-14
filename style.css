@@ -32,7 +32,7 @@ img {
   --title-font: 'Poppins', sans-serif;
   --body-font: 'DM Sans', sans-serif;
   --fisio-green: rgb(10,171,117);
-  --fisio-blue: rgb(1,132,202);
+  --fisio-blue: rgb(1,132,202);/*#0184ca*/
 }
 
 html {
