@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/menu-responsive.jpg" >
+  <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/tela-1.jpg" >
 </p>  
 
 - Site institucional da Fisio Saúde, uma clínica de fisioterapia.
