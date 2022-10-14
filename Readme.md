@@ -20,6 +20,10 @@
 - [ ] usabilidade em mobile
 - [ ] usabilidade em desktop
 
+#### Seções
+
+- [ ] ajustar a seção de serviços conforme orientação
+
 #### Inspirações
 
 - site de busca de [clínicas fisioterapeutas](https://buscafisio.com.br/fisio-saude-4)
