@@ -8,21 +8,19 @@
 
 #### Requisitos
 
-- [ ] cores da Identidade visual
+- [x] cores da Identidade visual
+- [ ] logo
 - [ ] favicon
-- [ ] redes sociais
-- [ ] depoimentos
-- [ ] fotos das instalações
-- [ ] fotos dos procedimentos
-- [ ] fotos das comemorações e interações com pacientes
-- [ ] mapa no endereço
-- [ ] responsividade
-- [ ] usabilidade em mobile
-- [ ] usabilidade em desktop
-
-#### Seções
-
-- [ ] ajustar a seção de serviços conforme orientação
+- [x] seção contato 
+- [x] seção footer com redes sociais e mapa no endereço
+- [x] seção depoimentos
+- [x] seção a clínica com fotos das instalações
+- [x] seção serviços com fotos dos procedimentos
+- [x] responsividade
+- [x] usabilidade em mobile
+- [x] usabilidade em desktop
+- [x] botão para abrir conversa no whatsapp
+- [ ] botão para agendar um horário
 
 #### Inspirações
 
