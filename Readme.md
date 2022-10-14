@@ -9,8 +9,8 @@
 #### Requisitos
 
 - [x] cores da Identidade visual
-- [ ] logo
-- [ ] favicon
+- [x] logo
+- [x] favicon
 - [x] seção contato 
 - [x] seção footer com redes sociais e mapa no endereço
 - [x] seção depoimentos
