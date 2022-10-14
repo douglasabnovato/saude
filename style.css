@@ -343,7 +343,7 @@ nav.show div.icon-close {
   display: block;
   margin-bottom: 1.5rem;
   font-size: 5rem;
-  color: var(--base-color);
+  color: var(--fisio-green);/*--base-color*/
 }
 
 .card .title {
