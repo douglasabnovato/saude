@@ -31,7 +31,7 @@ img {
   --subtitle-font-size: 1rem;
   --title-font: 'Poppins', sans-serif;
   --body-font: 'DM Sans', sans-serif;
-  --fisio-green: rgb(10,171,117);
+  --fisio-green: rgb(10,171,117);/*#0aab75*/
   --fisio-blue: rgb(1,132,202);/*#0184ca*/
 }
 
@@ -335,11 +335,11 @@ nav.show div.icon-close {
 
 /* services */
 
-.cards.grid {
+#services .cards.grid {
   gap: 1.5rem;
 }
 
-.card {
+#services .card {
   padding: 3.625rem 2rem;
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
   border-bottom: 0.25rem solid var(--base-color);
@@ -347,11 +347,37 @@ nav.show div.icon-close {
   text-align: center;
 }
 
-.card i {
+#services .card i {
   display: block;
   margin-bottom: 1.5rem;
-  font-size: 5rem;
+  width: 78px;
+  margin-left: auto;
+  margin-right: auto;
   color: var(--fisio-green);/*--base-color*/
+}
+
+#services .icon-fisioterapia-rpg {  
+  content: url(./assets/icons/fisioterapia-rpg.svg);
+}
+
+#services .icon-pilates-quiropraxia {  
+  content: url(./assets/icons/pilates-quiropraxia.svg);
+}
+
+#services .icon-drenagem-massoterapia {  
+  content: url(./assets/icons/drenagem-massoterapia.svg);
+}
+
+#services .icon-domiciliar-terapias {  
+  content: url(./assets/icons/domiciliar-terapias.svg);
+}
+
+#services .icon-acupuntura {  
+  content: url(./assets/icons/acupuntura.svg);
+}
+
+#services .icon-course {  
+  content: url(./assets/icons/course.svg);
 }
 
 .card .title {
