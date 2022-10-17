@@ -49,5 +49,6 @@
 - site de busca de [clínicas fisioterapeutas](https://buscafisio.com.br/fisio-saude-4)
 - portal [de fisioterapia](https://www.loguei.com/segmentos/site-para-fisioterapeuta/)
 - [ícones](https://www.flaticon.com/br/)
+- [proposta-comercial-website-institucional](https://app.wibushi.com/modelos/proposta-comercial-website-institucional/)
 
 Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
