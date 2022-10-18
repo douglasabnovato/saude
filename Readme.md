@@ -28,31 +28,45 @@
 - [x] botão para abrir conversa no whatsapp
 - [ ] botão para agendar um horário
 
-### Telas
-
-- modo desktop
+### Telas Responsivas - Desktop e Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-1-1.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-1-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-3.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-4.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-5.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-6.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-home-1-1.jpg" width="400px">
 </p>
 
-- modo mobile
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-menu-8.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-footer-7.jpg" width="400px">
+</p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-1.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-2.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-3.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-4.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-5.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-6.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-7.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-8.jpg" height="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-home-1-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-home-1.jpg" width="400px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-about-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-about-2.jpg" width="400px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-a-clinica-5.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-a-clinica-5.jpg" width="400px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-depoimentos-4.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-depoimentos-4.jpg" width="400px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-service-3.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-service-3.jpg" width="400px">
+</p>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-contato-6.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-contato-6.jpg" width="400px">
 </p>
 
 #### Inspirações
