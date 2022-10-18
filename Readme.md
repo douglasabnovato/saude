@@ -33,8 +33,13 @@
 - modo desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/tela-1.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/tela-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-1.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-1-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-3.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-4.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-5.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-6.jpg" width="400px">
 </p>
 
 - modo mobile
