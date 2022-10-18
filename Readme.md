@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/desktop-tela-1.jpg" >
+  <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/desktop-1-1.jpg" >
 </p>  
 
 - Site institucional da Fisio Saúde, uma clínica de fisioterapia.
@@ -33,13 +33,13 @@
 - modo desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-1.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-1-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-3.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-4.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-5.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-tela-6.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-1-1.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-1-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-3.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-4.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-5.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-6.jpg" width="400px">
 </p>
 
 - modo mobile
