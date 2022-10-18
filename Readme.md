@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/desktop-1-1.jpg" >
+  <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/desktop-home-1-2.jpg" >
 </p>  
 
 - Site institucional da Fisio Saúde, uma clínica de fisioterapia.
@@ -35,38 +35,38 @@
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-menu-8.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-footer-7.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-menu-8.jpg" height="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-footer-7.jpg" height="400px">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-home-1-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-home-1.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-home-1.jpg" height="400px">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-about-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-about-2.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-about-2.jpg" height="400px">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-a-clinica-5.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-a-clinica-5.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-a-clinica-5.jpg" height="400px">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-depoimentos-4.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-depoimentos-4.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-depoimentos-4.jpg" height="400px">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-service-3.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-service-3.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-service-3.jpg" height="400px">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-contato-6.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-contato-6.jpg" width="400px">
+  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-contato-6.jpg" height="400px">
 </p>
 
 #### Inspirações
