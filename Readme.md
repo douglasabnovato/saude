@@ -1,81 +1,72 @@
 <h4 align="center"> 
-	🚧 Fisio Saúde 🚀
-</h4>
+	🚧 meu salao 🚀
+</h4> 
+
+<h1 align="center">
+    <img alt="versão lts do projeto" title="#meusalao" src="./.github/app-meu-salao.JPG" />
+</h1>
+
+Projeto open source de uma aplicação original para um salão de beleza.
+Dividido em dois módulos, um para os clientes e outro para o ambiente do salão.
+
+### Versão 3.0
+
+Transformar o design conforme requisitos e inspirações.
+
+- [x] 1. Adaptar template conforme as inspirações
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/desktop-home-1-2.jpg" >
-</p>  
+  <img alt="versão 3.0 do projeto" title="#meu-salao" src="./.github/app-meu-salao.JPG" width="400px">
+  <img alt="versão 3.0 do projeto" title="#meu-salao" src="./.github/google-agenda.jpg" width="400px">
+  <img alt="versão 3.0 do projeto" title="#meu-salao" src="./.github/whatsapp-web.jpg" width="400px">
+</p> 
 
-- Site institucional da Fisio Saúde, uma clínica de fisioterapia.
+### Versão 2.0
 
-- Montar uma documentação para o proprietário do site ter informações para consultar e entender as especificações. 
+Evolução de layout inspirado no treinamento Origin-Six. É uma página institucional no formato One Page, responsiva que contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
-- Fazer também uma proposta de orçamento para apresentar na reunião de demonstração.
-
-#### Requisitos
-
-- [x] cores da Identidade visual
-- [x] logo
-- [x] favicon
-- [x] seção contato 
-- [x] seção footer com redes sociais e mapa no endereço
-- [x] seção depoimentos
-- [x] seção a clínica com fotos das instalações
-- [x] seção serviços com fotos dos procedimentos
-- [x] responsividade
-- [x] usabilidade em mobile
-- [x] usabilidade em desktop
-- [x] botão para abrir conversa no whatsapp
-- [ ] botão para agendar um horário
-
-### Telas Responsivas - Desktop e Mobile
+- [x] 1. Novo template spa
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-home-1-1.jpg" width="400px">
-</p>
+  <img alt="versão 3.0 do projeto" title="#meu-salao" src="./.github/v2-1.JPG" width="400px">
+  <img alt="versão 3.0 do projeto" title="#meu-salao" src="./.github/v2-2.JPG" width="400px">
+</p> 
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-menu-8.jpg" height="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-footer-7.jpg" height="400px">
-</p>
+#### 🔖 Detalhes no Notion
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-home-1-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-home-1.jpg" height="400px">
-</p>
+Podemos ver mais detalhes do projeto através [desse link](https://www.notion.so/Mission-Origin-003847efca1f4d8f938beb5c4f6a3578) no Notion.  
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-about-2.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-about-2.jpg" height="400px">
-</p>
+#### 🔖 Layout
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-a-clinica-5.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-a-clinica-5.jpg" height="400px">
-</p>
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-depoimentos-4.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-depoimentos-4.jpg" height="400px">
-</p>
+#### 🚀 Tecnologias
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-service-3.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-service-3.jpg" height="400px">
-</p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML
+- CSS
+- JavaScript
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/desktop-contato-6.jpg" width="400px">
-  <img alt="FisioSaúde" title="#FisioSaúde" src="./.github/mobile-contato-6.jpg" height="400px">
-</p>
+Bibliotecas
+- [Google Fonts](https://fonts.google.com/)
+- [SwipeJS](https://github.com/nolimits4web/Swiper)
+- [ScrollRevel](https://scrollrevealjs.org)
 
-#### Inspirações
+Utilitários
+- [randomuser.me](https://randomuser.me/photos)
+- [IconMoon](https://icomoon.io/app/#/select)
 
-- site de busca de [clínicas fisioterapeutas](https://buscafisio.com.br/fisio-saude-4)
-- portal [de fisioterapia](https://www.loguei.com/segmentos/site-para-fisioterapeuta/)
-- [ícones](https://www.flaticon.com/br/)
-- [proposta-comercial-website-institucional](https://www.wibushi.com/pt/modelos/proposta-comercial-de-desenvolvimento-de-website-institucional/)
-- [proposta-comercial-website-institucional - 1](https://app.wibushi.com/modelos/proposta-comercial-website-institucional/)
-- [proposta-comercial-website-institucional - 2](https://proposeful.com/pt/about/proposta-desenvolvimento-sites/)
+### Versão 1.0
 
-Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
+Primeira etapa de levantamento de requisitos.
+
+- [x] 1. Inspiração - Brainding para construir a ideia do projeto.
+- [x] 2. Papel e Caneta - Rascunhar telas no papel e caneta.
+
+### 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---  
+
+Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/) 
