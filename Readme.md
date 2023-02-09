@@ -4,7 +4,15 @@
 
 <h1 align="center">
     <img alt="versão lts do projeto" title="#meusalao" src="./.github/app-meu-salao.JPG" />
-</h1>
+</h1> 
+
+## 💻🔖 Organização do projeto 
+
+Organizamos as branches para serem guardadas as versões do projeto
+- main: em produção
+- developer: em desenvolvimento das tarefas
+- v-dev-fisio: primeira versão do projeto
+- v-dev-meu-salao: segunda versão do projeto
 
 Projeto open source de uma aplicação original para um salão de beleza.
 Dividido em dois módulos, um para os clientes e outro para o ambiente do salão.
