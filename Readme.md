@@ -6,10 +6,18 @@
   <img alt="versão 1 do projeto" title="#FisioSaúde" src="./.github/desktop-home-1-2.jpg" >
 </p>  
 
+## 💻🔖 Organização do projeto 
+
+Organizamos as branches para serem guardadas as versões do projeto
+- main: em produção
+- developer: em desenvolvimento das tarefas
+- v-dev-fisio: primeira versão do projeto
+- v-dev-meu-salao: segunda versão do projeto
+ 
+## 💻🔖 sobre o projeto
+
 - Site institucional da Fisio Saúde, uma clínica de fisioterapia.
-
-- Montar uma documentação para o proprietário do site ter informações para consultar e entender as especificações. 
-
+- Montar uma documentação para o proprietário do site ter informações para consultar e entender as especificações.
 - Fazer também uma proposta de orçamento para apresentar na reunião de demonstração.
 
 #### Requisitos
